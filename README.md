@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hananmaqsoodahmed
-- 👀 I’m interested in Data analysis, Data cleaning, machine learning
-- 🌱 I’m currently learning python, R, SQL
+- 👀 I’m interested JAVA , Spring BOOT , micro services, 
+- 🌱 I’m currently kubernetes, docker
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me hananmaqsoodahmed@gmail.com
 - 😄 Pronouns: he
